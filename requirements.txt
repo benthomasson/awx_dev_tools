@@ -1,0 +1,6 @@
+jinja2-cli
+autopep8
+docopt
+pyyaml
+requests
+pyyaml
